@@ -15,12 +15,60 @@
         <type>0</type>
         <phaseShift>0.000000000</phaseShift>
         <amplitude>1.000000000</amplitude>
+        <frequency>100.000000000</frequency>
+        <seed>0.000000000</seed>
+        <center>0.000000000</center>
+        <interpolate>1</interpolate>
+        <expInterpolate>0</expInterpolate>
+        <time>00:00:00:346</time>
+        <value>0.582089543</value>
+    </key>
+    <key>
+        <type>0</type>
+        <phaseShift>0.000000000</phaseShift>
+        <amplitude>1.000000000</amplitude>
+        <frequency>100.000000000</frequency>
+        <seed>0.000000000</seed>
+        <center>0.000000000</center>
+        <interpolate>1</interpolate>
+        <expInterpolate>0</expInterpolate>
+        <time>00:00:01:014</time>
+        <value>0.656716406</value>
+    </key>
+    <key>
+        <type>0</type>
+        <phaseShift>0.000000000</phaseShift>
+        <amplitude>1.000000000</amplitude>
         <frequency>188.199996948</frequency>
         <seed>0.000000000</seed>
         <center>0.000000000</center>
         <interpolate>1</interpolate>
         <expInterpolate>0</expInterpolate>
-        <time>00:00:02:353</time>
-        <value>0.313121080</value>
+        <time>00:00:02:247</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <type>0</type>
+        <phaseShift>0.000000000</phaseShift>
+        <amplitude>1.000000000</amplitude>
+        <frequency>100.000000000</frequency>
+        <seed>0.000000000</seed>
+        <center>0.000000000</center>
+        <interpolate>1</interpolate>
+        <expInterpolate>0</expInterpolate>
+        <time>00:00:03:990</time>
+        <value>0.388059676</value>
+    </key>
+    <key>
+        <type>0</type>
+        <phaseShift>0.000000000</phaseShift>
+        <amplitude>1.000000000</amplitude>
+        <frequency>100.000000000</frequency>
+        <seed>0.000000000</seed>
+        <center>0.000000000</center>
+        <interpolate>1</interpolate>
+        <expInterpolate>0</expInterpolate>
+        <time>00:00:04:824</time>
+        <value>0.731343269</value>
     </key>
 </keyframes>

@@ -6,16 +6,16 @@
         <value>0.013071895</value>
     </key>
     <key>
-        <easefunc>1</easefunc>
-        <easetype>2</easetype>
-        <time>00:00:01:388</time>
-        <value>0.775757551</value>
-    </key>
-    <key>
         <easefunc>5</easefunc>
         <easetype>2</easetype>
-        <time>00:00:02:493</time>
+        <time>00:00:01:746</time>
         <value>0.000000000</value>
+    </key>
+    <key>
+        <easefunc>1</easefunc>
+        <easetype>2</easetype>
+        <time>00:00:02:169</time>
+        <value>0.037296236</value>
     </key>
     <key>
         <easefunc>0</easefunc>

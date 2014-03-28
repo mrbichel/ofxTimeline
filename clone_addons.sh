@@ -16,6 +16,6 @@ ${PREFIX}obviousjim/ofxTween.git
 
 ${PREFIX}obviousjim/ofxMSATimer.git
 
-${PREFIX}Flightphase/ofxTextInputField.git
+${PREFIX}joshuajnoble/ofxTextInputField.git
 
 ${PREFIX}Flightphase/ofxRange.git

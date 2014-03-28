@@ -8,14 +8,20 @@
     <key>
         <sampleX>0.456367880</sampleX>
         <sampleY>0.709999919</sampleY>
-        <time>00:00:01:783</time>
-        <value>0.508917630</value>
+        <time>00:00:01:977</time>
+        <value>0.636577189</value>
+    </key>
+    <key>
+        <sampleX>0.625130415</sampleX>
+        <sampleY>0.354999959</sampleY>
+        <time>00:00:02:122</time>
+        <value>1.000000000</value>
     </key>
     <key>
         <sampleX>0.261519849</sampleX>
         <sampleY>0.339999974</sampleY>
-        <time>00:00:02:417</time>
-        <value>0.460347950</value>
+        <time>00:00:03:425</time>
+        <value>0.609284103</value>
     </key>
     <key>
         <sampleX>0.588349521</sampleX>
